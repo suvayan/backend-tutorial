@@ -1,0 +1,30 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"description": "backend tutorial",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/suvayan/backend-tutorial.git"
+	},
+	"keywords": [
+		"node",
+		"npm",
+		"express",
+		"mongoose",
+		"mongoDB"
+	],
+	"author": "suvayan",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/suvayan/backend-tutorial/issues"
+	},
+	"homepage": "https://github.com/suvayan/backend-tutorial#readme",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2"
+	}
+}
